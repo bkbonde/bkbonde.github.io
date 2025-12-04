@@ -9,10 +9,10 @@ I'd love to hear from you! Feel free to reach out through any of the following c
 
 ## Get In Touch
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [Contact via LinkedIn](https://www.linkedin.com/in/bhushanbonde/)
 - **GitHub**: [github.com/bkbonde](https://github.com/bkbonde)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [linkedin.com/in/bhushanbonde](https://www.linkedin.com/in/bhushanbonde/)
+- **Twitter**: [Connect on LinkedIn](https://www.linkedin.com/in/bhushanbonde/)
 
 ## Let's Connect
 

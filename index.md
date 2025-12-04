@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-# Welcome to My GitHub Pages Site
+# Welcome to Bhushan Bonde's Portfolio
 
-Hello! This is the homepage of my personal website hosted on GitHub Pages.
+Hello! I'm Bhushan Bonde, a technology professional passionate about innovation and development.
 
 ## About This Site
 
-This website is built using GitHub Pages with markdown files. It showcases my work, projects, and interests.
+This website showcases my professional journey, projects, and technical expertise. Feel free to explore and connect!
 
 ## Quick Links
 
