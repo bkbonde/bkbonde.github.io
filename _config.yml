@@ -1,0 +1,31 @@
+# Site settings
+title: BKBonde's GitHub Pages
+description: My personal website hosted on GitHub Pages
+author: BKBonde
+
+# Theme settings
+theme: minima
+# Or use a remote theme: remote_theme: pages-themes/minimal@v0.2.0
+
+# Build settings
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - blog.md
+  - contact.md
+
+# Social links (optional)
+github_username: bkbonde
+# twitter_username: yourhandle
+# linkedin_username: yourprofile
+
+# Exclude files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .vscode/
