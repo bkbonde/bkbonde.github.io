@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Bhushan K. Bonde](images/Profile.png){: style="width: 200px; border-radius: 50%; display: block; margin: 0 auto 20px;"}
+![Bhushan K. Bonde](images/profile.png){: style="width: 200px; border-radius: 50%; display: block; margin: 0 auto 20px;"}
 
 # Dr (Prof.) Bhushan K. Bonde
 
