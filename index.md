@@ -11,12 +11,12 @@ Principal Group leader in AI/ML & computational biology. I build scalable scient
 
 ## Featured projects
 
-### UCB scientific container platform
+### Scientific Compute Container platform
 - **Impact:** 10+ bioinformatics/AI apps in production from code to lab; **annual savings 300–500K**.
 - **Stack:** Docker, Kubernetes, Azure/AWS, CI/CD, Linux HPC.
 - **Outcome:** Standardized dev-to-prod workflows, reproducibility, rapid onboarding.
 
-### DeepCDR: Antibody design
+### Antibody Design with RoBERTa and LLMs 
 - **Approach:** Sequence + binding data; deep learning for CDR optimization.
 - **Result:** Candidate ranking and design support in discovery cycles.
 
@@ -24,7 +24,7 @@ Principal Group leader in AI/ML & computational biology. I build scalable scient
 - **Method:** Graph/ML-based retrosynthesis planning for small molecules.
 - **Value:** Faster route exploration; decision support for chemistry.
 
-### D2P2: Toxicity prediction
+### Deep Learning for Toxicity prediction
 - **Data:** 20 years of Computational Biology; privacy-preserving ML and AL, GenAI stacks.
 - **Deliverable:** Early risk flags integrated into discovery workflows.
 
