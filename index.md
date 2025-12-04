@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-![Bhushan K. Bonde](images/profile.png){: style="width: 200px; border-radius: 50%; display: block; margin: 0 auto 20px;"}
+![Bhushan K. Bonde](images/Profile.png){: style="width: 200px; border-radius: 50%; display: block; margin: 0 auto 20px;"}
 
-# Bhushan K. Bonde
+# Dr (Prof.) Bhushan K. Bonde
 
 Principal Group leader in AI/ML & computational biology. I build scalable scientific platforms and models that accelerate drug discovery, combining systems biology, rewrite translational bioinformatics algorithms to make them use for better needs, and pragmatic engineering (Containers on HPC/GPU, Kubernetes, cloud).
 
